@@ -75,5 +75,19 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="1005830.jpg" />
+    <Content Include="1007550.jpg" />
+    <Content Include="1031920.jpg" />
+    <Content Include="1042578.png" />
+    <Content Include="1043122.png" />
+    <Content Include="1054250.png" />
+    <Content Include="1114659.jpg" />
+    <Content Include="1144158.jpg" />
+    <Content Include="1f9b65a1e8a63641-removebg-preview.png" />
+    <Content Include="640575.jpg" />
+    <Content Include="911274.png" />
+    <Content Include="Arty-Detektiv-uzhe-mertv-luchshaya-podborka-anime-kartinok-15.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
